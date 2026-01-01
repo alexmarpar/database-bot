@@ -11,3 +11,7 @@ if (input.includes("hi")) return { text: "hi human,how are you?" };
 -this extract is very important because this is the code essential that can interact with the user.
 
 -Database bot
+LENGUAGES:
+HTML
+CSS
+JAVASCRIPT VANILLA
